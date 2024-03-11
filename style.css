@@ -1,0 +1,120 @@
+    /* Navbar Start */
+    
+    .navbar {
+        background-color: #f8f9fb;
+        border-bottom: 1.5px solid hsl(240, 4%, 90%);
+    }
+    
+    .container-fluid {
+        width: 80%;
+    }
+    
+    .navbar-brand {
+        margin-right: 50px;
+    }
+    
+    .nav-link {
+        color: black;
+    }
+    
+    .nav-item {
+        margin-right: 15px;
+    }
+    
+    .search {
+        width: 240px;
+    }
+    
+    .search-img {
+        width: 20px;
+        height: 20px;
+    }
+    
+    .search-btn {
+        background-color: #ebebeb;
+        height: 30px;
+        width: 40px;
+        margin-right: 10px;
+    }
+    
+    .nav-icon {
+        width: 30px;
+        height: 50px;
+    }
+    /* -----Navbar End----- */
+    /* teaser Start */
+    
+    .container-fluid {
+        padding-top: 5px;
+    }
+    
+    .teaser {
+        width: 100%;
+        height: 800px;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .carousel-caption {
+        background-color: #212429;
+        color: #ebebeb;
+    }
+    
+    .carousel {
+        margin-bottom: 30px;
+    }
+    /* -----teaser End----- */
+    /* -----products start----- */
+    
+    .card-title {
+        font-weight: normal;
+        margin-bottom: 20px;
+    }
+    
+    .price {
+        color: #7a7b7e;
+    }
+    
+    .products {
+        margin-bottom: 60px;
+    }
+    /* -----products end----- */
+    /* -----footer start----- */
+    
+    .down-bar {
+        background-color: #f8f9fb;
+        height: auto;
+        border-bottom: 1.5px solid hsl(240, 4%, 90%);
+        border-top: 1.5px solid hsl(240, 4%, 90%);
+        margin-bottom: 0px;
+    }
+    
+    .f {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .col-md-3 {
+        margin-top: 10px;
+    }
+    
+    .footer {
+        padding-top: 50px;
+        background-color: #f8f9fb;
+        width: 100%;
+    }
+    
+    a {
+        font-size: medium;
+        font-style: normal;
+        text-decoration: none;
+        color: black;
+    }
+    
+    i {
+        padding-right: 7px;
+    }
+    /* -----footer End----- */
